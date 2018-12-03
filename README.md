@@ -1,6 +1,4 @@
-# My-Projects
-Series of Projects
-1. Smart Water Solution:
+# Smart Water Solution:
 Problem Statement:
 Ever since mankind came into existence, the proper use as well as management of water has been a topic of much debate as well as caution for everyone.
 One of the crucial challenges of water management as well as conservation in a city is to determine the amount of water that any particular city is going to utilize during the next day, figuring out the right amount of water that must be present in the reservoirs and overhead tanks during any particular point of time.
